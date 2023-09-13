@@ -1,9 +1,9 @@
 {
   "name": "@neutron-org/dao-client",
   "version": "0.0.0-development",
-  "description": "Token Generation Event Client",
+  "description": "Neutron DAO client",
   "main": "lib/index.js",
-  "author": "Sergey Ratiashvili <serg.s.r@gmail.com>",
+  "author": "Sergei Sotnikov <ssotnikov93@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@cosmjs/amino": "^0.30.1",
